@@ -1,0 +1,12 @@
+body{
+    font-family: 'Franklin Gothic heavy', 'Arial Narrow', Arial, sans-serif;
+}
+.titulo{
+    text-align: center;
+    color: #A54686;       
+}
+.menu{
+    background-color:#f47920;
+    font-size: 25px;
+    text-align: center;
+}
