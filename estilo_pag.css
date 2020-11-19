@@ -1,5 +1,7 @@
 body{
     font-family: 'Franklin Gothic heavy', 'Arial Narrow', Arial, sans-serif;
+    background: #b3b3b3;
+    background-attachment: fixed;
 }
 .titulo{
     text-align: center;
@@ -44,6 +46,8 @@ iframe{
     display: none;
     position: absolute;
     min-width: 200px;;
+   
+
 }
 #menu #item:hover #menu_des{
     display: block;
@@ -54,6 +58,19 @@ iframe{
    margin-left: 30%;
    font-size: large;
 }
-#autor2{
-    margin-left: 10%;
+.foter_{
+    text-align: center;
+    padding-left: 17%;
+    object-position: center;
+}
+.iconos{
+    transition: 0.5s;
+    width: 35px;
+    display: block;
+}
+.pdfs{
+  margin-top: 10%;
+  margin-left:-200px;
+ 
+    
 }
